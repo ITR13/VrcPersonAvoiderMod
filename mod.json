@@ -1,0 +1,15 @@
+{
+  "name": "Person Avoider",
+  "modversion": "1.0.0",
+  "vrchatversion": "Build 1207",
+  "loaderversion": "0.5.4",
+  "modtype": "Mod",
+  "author": "ITR",
+  "description": "Ever accidentally joined a world containing somebody you're trying to avoid? Now you can get notified immediately when you join! Also notifies if they join a world you're in, and works no matter if you're blocked or they change name!\nHeavily uses the source of [Knah's JoinNotifier](https://github.com/knah/VRCMods/tree/master/JoinNotifier).\nFor more info read the [README](https://github.com/ITR13/VrcPersonAvoiderMod/blob/master/README.md)",
+  "requirements": [],
+  "searchtags": ["Person", "People", "Account", "Accounts", "Avoid", "Block", "Blocked", "Utility", "ITR", "Alert", "Notifier", "Name", "Change", "Detect", "JoinNotifier", "Join", "Notify"],
+  "downloadlink": "https://github.com/ITR13/VrcPersonAvoiderMod/releases/download/1.0.0/JoinNotifier.dll",
+  "sourcelink": "https://github.com/ITR13/VrcPersonAvoiderMod",
+  "changelog": "Initial Relase",
+  "embedcolor": "007F00",
+}
